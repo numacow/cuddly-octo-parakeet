@@ -1,3 +1,2 @@
 # cuddly-octo-parakeet
-first repo
-this is a test edit
+This is a collection of all my c++ programs i worked on out of class
